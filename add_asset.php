@@ -26,6 +26,7 @@ if (isset($_POST['submit'])) {
 <html>
 <head>
     <title>Add Asset</title>
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
@@ -55,7 +56,7 @@ if (isset($_POST['submit'])) {
 </form>
 
 <br>
-<a href="index.php">← Back to Asset List</a>
+<a href="index.php" class="back-link">← Back to Asset List</a>
 
 </body>
 </html>

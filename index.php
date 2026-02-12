@@ -4,6 +4,7 @@
 <html>
 <head>
     <title>Asset Management System</title>
+    <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
 
